@@ -8,13 +8,12 @@ This is the first task of my thesis: to be able to track cataract fragments and 
 
 For this script is important to do the correct dependencies installation, debugging of a single frame, full video processing, and analysis of the final CSV (useful for our protocol)
 
+## Updates
+
 ### June 4th
 For now, I've been implementing libraries that already contain pre-trained segmentation models, but due to version differences, I couldn't continue searching for another tool. 
 
 I'm looking for certain models and reading their documentation on how the training was done, before implementing my own ideas. Important to do a course for this specifically
-
-
-## Updates
 
 ### June 9th
 Today will be implementing a model called VideoMamba for video segmentation on more time-consuming surgeries. Which follows ViT (vision transformers) standard architecture
